@@ -6,7 +6,7 @@ This is my solution to the [Recipe page challenge](https://www.frontendmentor.io
 
 ### Screenshot
 
-![](./screenshot.png)
+![Website Screenshot](./screenshot.png)
 
 ### Links
 
