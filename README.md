@@ -35,7 +35,7 @@ I also improved my understanding of:
 
 ## AI Collaboration
 
-No AI tools were used during the development of this project. I only used documentation and reference materials while studying HTML and CSS concepts.
+AI only used to finish README. I only used documentation and reference materials while studying HTML and CSS concepts.
 
 ## Author
 
