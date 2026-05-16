@@ -7,11 +7,13 @@
 @font-face {
     font-family: youngSeriff;
     src: url(/assets/fonts/young-serif/YoungSerif-Regular.ttf);
+    font-style: normal;
 }
 
 @font-face {
     font-family: outfitVariable;
     src: url(/assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+    font-style: normal;
 }
 
 img {
@@ -30,7 +32,6 @@ h1 {
     line-height: 1.2;
     font-size: 2.5rem;
     font-weight: normal;
-    font-style: normal;
     font-family: youngSeriff;
 }
 
@@ -39,6 +40,7 @@ p {
     padding: 15px 35px;
     white-space: wrap;
     text-align: justify;
+    margin-bottom: 15px;
 }
 
 .preparation-time {
@@ -49,7 +51,7 @@ p {
     padding: 20px;
     font-family: outfitVariable;
     font-weight: normal;
-    font-style: normal;
+    padding-bottom: 10px;
 }
 
 .preparation-time h3 {
@@ -64,8 +66,40 @@ p {
 .preparation-time li {
     font-size: 1.1rem;
     padding-bottom: 10px;
+    color: rgb(77, 77, 77);
 }
 
 .preparation-time span {
     font-weight: 600;
+    color: black;
+}
+
+.ingredients {
+    padding: 0 40px;
+    padding-top: 40px;
+}
+
+.ingredients h2 {
+    color: rgb(120, 50, 20);
+    font-family: youngSeriff;
+    font-weight: normal;
+    font-size: 1.8rem;
+    padding-bottom: 15px;
+}
+
+.ingredients ul {
+    padding: 10px 30px;
+    font-family: outfitVariable;
+    font-weight: normal;
+}
+
+.ingredients li {
+    padding-bottom: 15px;
+    padding-left: 15px;
+    color: rgb(77, 77, 77);
+}
+
+hr {
+    width: 80%;
+    margin: 0 auto;
 }
